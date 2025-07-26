@@ -1,5 +1,9 @@
 # 📊 Big Data Challenge: Analisis dan Prediksi Penjualan
 
+<div align="center">
+  <img src="output.png" width="500" alt="K-Means Clustering Visualization">
+</div>
+
 Proyek ini adalah solusi untuk tantangan "Big Data Challenge" yang berfokus pada analisis deret waktu (Time Series Analysis) dan pembangunan model prediksi penjualan. Dataset yang digunakan berisi data transaksi penjualan dan dianalisis menggunakan Python dengan library Pandas, Matplotlib, Seaborn, Statsmodels (untuk SARIMAX), dan Prophet.
 
 ## 🚀 Tujuan Proyek
